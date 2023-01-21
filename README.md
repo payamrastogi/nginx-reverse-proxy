@@ -56,3 +56,9 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+
+
+###### References
+- https://unbiased-coder.com/setup-aws-cdk-python/
+- https://unbiased-coder.com/setup-aws-ec2-instance-cdk-python/
+- https://unbiased-coder.com/boto3-session-guide/
